@@ -2,13 +2,13 @@ import React from "react";
 import "./App.css"; 
 import doctor from "./assets/doctor.png";
 import surgery from "./assets/surgery.png";
-import patientImg from "./assets/patient.png"; 
+import patientImg from "./assets/patient.PNG"; 
 import logo from "./assets/logo.png";
 import img from "./assets/img.png"
 import lungs from "./assets/lungs.png"
 import brain from "./assets/brain.png"
 import cup from "./assets/cup.png"
-import name from "./assets/name.png"
+import name from "./assets/name.PNG"
 import location from "./assets/location.PNG"
 import search from "./assets/search.png"
 
